@@ -1,0 +1,16 @@
+.barraNav{
+    border: 1px solid green;
+    display: flex;
+    background-color: black;
+    align-items: center;
+}
+
+.btAbout button,
+.btHome button,
+.btFav button {
+  background-color: transparent; /* Fondo transparente */
+  color: #00ff00; /* Color de texto verde */
+  border: none; /* Elimina el borde */
+  padding: 10px 20px; /* Ajusta el espaciado interno del botón */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Añade una sombra */
+}

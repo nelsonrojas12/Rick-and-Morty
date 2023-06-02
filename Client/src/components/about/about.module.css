@@ -1,0 +1,10 @@
+.info{
+    color: rgb(69, 233, 24);
+}
+.info img {
+    max-width: 20rem;
+    height: auto;
+    border-radius: 5rem;
+    margin-top: 1rem;
+    box-shadow: 0 0 10px 5px rgba(48, 222, 48, 0.5);
+  }

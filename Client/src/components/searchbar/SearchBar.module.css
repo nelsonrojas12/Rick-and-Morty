@@ -1,0 +1,20 @@
+.barra{
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    
+   
+}
+
+.randomButton,
+.addButton {
+    background-color: transparent; /* Fondo transparente */
+    color: #00ff00; /* Color de texto verde */
+    border: none; /* Elimina el borde */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Añade una sombra */
+    
+}
+
+.searchInput{
+    background-color: rgb(57, 233, 44);
+    border: none;
+}

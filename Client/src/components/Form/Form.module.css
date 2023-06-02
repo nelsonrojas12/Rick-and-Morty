@@ -1,0 +1,45 @@
+.formulario {
+    border: 1px solid rgb(76, 220, 36);
+    background-image: url(https://www.icegif.com/wp-content/uploads/2022/06/icegif-519.gif);
+    align-items: center;
+    width: 20rem;
+    height: 20rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 1rem;
+    margin: 5rem auto;
+    padding: 2rem;
+    box-sizing: border-box;
+    background-size: 24rem;
+    background-position: center;
+    transform: scale(1.1);
+  }
+  
+  .formulario label {
+    color: rgb(10, 9, 9);
+    margin-bottom: 0.5rem;
+  }
+  
+  .formulario input {
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    
+  }
+  
+  .formulario p {
+    color: white;
+    margin: 0.5rem 0;
+  }
+  
+  .formulario button {
+    padding: 0.5rem 1rem;
+    color: black;
+    border: none;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    background-color: gray;
+    color: rgb(48, 222, 48);
+    box-shadow: 0 0 10px 5px rgba(48, 222, 48, 0.5);
+  }
